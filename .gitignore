@@ -23,3 +23,9 @@ go.work.sum
 
 # env file
 .env
+
+# test results
+# If you are using a test runner that generates output files, you can add them here
+# For example, if you use `go test -json`, you might want to ignore:
+# test.json
+*.out
